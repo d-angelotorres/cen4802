@@ -1,7 +1,7 @@
 public class Fibonacci {
 
     /**
-     * Returns the nth term in the Fibonacci sequence.
+     * Will return the nth term in the Fibonacci sequence.
      * @param n The position of the term in the Fibonacci sequence.
      * @return The nth term in the Fibonacci sequence.
      */
